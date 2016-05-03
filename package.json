@@ -1,0 +1,30 @@
+{
+  "name": "co-mongodb",
+  "version": "1.0.0",
+  "description": "co version mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncodingnow/co-mongodb.git"
+  },
+  "keywords": [
+    "co",
+    "koa",
+    "mongodb",
+    "yield"
+  ],
+  "author": "Jason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasoncodingnow/co-mongodb/issues"
+  },
+  "homepage": "https://github.com/jasoncodingnow/co-mongodb#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "cofy": "^2.0.2",
+    "mongodb": "^2.1.18"
+  }
+}
