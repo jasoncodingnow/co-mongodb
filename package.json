@@ -1,7 +1,7 @@
 {
   "name": "comongodb",
-  "version": "1.0.0",
-  "description": "co version mongodb",
+  "version": "1.0.1",
+  "description": "co version mongodb, fix mongodb problem of cofy-mongodb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/jasoncodingnow/co-mongodb#readme",
   "dependencies": {
-    "co": "^4.6.0",
-    "cofy": "^2.0.2",
-    "mongodb": "^2.1.18"
+    "co": "*",
+    "cofy": "*",
+    "mongodb": "*"
   }
 }
