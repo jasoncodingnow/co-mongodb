@@ -1,6 +1,6 @@
 {
   "name": "comongodb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "co version mongodb, fix mongodb problem of cofy-mongodb",
   "main": "index.js",
   "scripts": {

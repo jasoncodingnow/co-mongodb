@@ -11,7 +11,7 @@ mongodb version is too old in cofy-mongodb
 
 ##Installation
 ```
-$ npm install co-mongodb --save
+$ npm install comongodb --save
 ```
 **Old methods not change.New methods invoke convention: `yield obj.$asyncMethod`**
 
