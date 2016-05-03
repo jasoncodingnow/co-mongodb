@@ -1,5 +1,5 @@
 {
-  "name": "co-mongodb",
+  "name": "comongodb",
   "version": "1.0.0",
   "description": "co version mongodb",
   "main": "index.js",
