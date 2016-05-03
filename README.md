@@ -3,6 +3,10 @@ co-mongodb
 
 co version [node-mongodb-native](https://github.com/mongodb/node-mongodb-native).
 
+## why we need this:
+```
+mongodb version is too old in cofy-mongodb
+```
 ## **fix mongodb version problem of cofy-mongodb**
 
 ##Installation
