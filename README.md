@@ -17,7 +17,7 @@ $ npm install comongodb --save
 
 ### Example:
 ```js
-var mongodb = require('co-mongodb');
+var mongodb = require('comongodb');
 var MongoClient = mongodb.MongoClient;
 var co = require('co');
 
