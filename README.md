@@ -15,6 +15,8 @@ $ npm install comongodb --save
 ```
 **Old methods not change.New methods invoke convention: `yield obj.$asyncMethod`**
 
+Oo, I need star: [here](https://github.com/jasoncodingnow/co-mongodb).
+
 ### Example:
 ```js
 var mongodb = require('comongodb');
